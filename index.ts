@@ -1,3 +1,3 @@
-import MyPluginAppium from './src/plugin';
-export default MyPluginAppium;
-export {MyPluginAppium};
+import CommandViz from './src/plugin';
+export default CommandViz;
+export {CommandViz};

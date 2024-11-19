@@ -30,5 +30,15 @@ npm install --save-dev @appium/base-plugin
 npm install --save-dev appium-support   
 npm run prepublish                
 npm run install-plugin   
-npm run uninstall                           
+npm run uninstall      
+npm install @influxdata/influxdb-client
+
+
+mac terminal :
+brew install grafana
+brew services start grafana
+
+brew install influxdb
+
+
 ```
